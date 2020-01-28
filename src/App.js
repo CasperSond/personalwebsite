@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import { Router, Link } from "@reach/router";
 import Home from "./views/home";
