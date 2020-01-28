@@ -16,3 +16,8 @@
 .App-link {
   color: #61dafb;
 }
+
+.App-header a {
+  display: inline-block;
+  margin-left: 0.5em;
+}

@@ -10,10 +10,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Header</p>
+        <Link to="/">Home</Link>
+        <Link to="/other">Home</Link>
       </header>
       <Router>
         <Home path="/" />
-        <Other path="dashboard" />
+        <Other path="other" />
       </Router>
     </div>
   );
