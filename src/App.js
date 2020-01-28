@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Header</p>
+        <p>Routes</p>
         <Link to="/">Home</Link>
         <Link to="/other">Home</Link>
       </header>
